@@ -1,0 +1,48 @@
+.table-container {
+    max-width: 100%;
+    max-height: 100%;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    
+    /* margin-left: 0%;  */
+}
+
+.sticky2 {
+    position: sticky;
+    left: 0;
+    max-width: 60px;
+    background-color: #F1FAEE;
+    
+
+    /* background-color:#F1FAEE; */
+    /* background-color:black;
+        color:white */
+}
+
+.sticky1 {
+    position: sticky;
+    left: 0;
+    background-color: #F1FAEE;
+    max-width: 60px;
+}
+
+.tit{
+    max-width: 150px;
+}
+
+
+.desc{
+    min-width: 300px;
+}
+
+.inf{
+    min-width: 300px;
+}
+
+.bar{
+    min-width: 200px;
+}
+
+.val{
+    min-width: 100px;
+}
